@@ -8,6 +8,9 @@ type: page
 
 ## Basics
 
+* [IPv4 Subnetting](https://packetlife.net/media/library/15/IPv4_Subnetting.pdf)
+
+
 ## L7 Protocols
 
 ## L4 Protocols
