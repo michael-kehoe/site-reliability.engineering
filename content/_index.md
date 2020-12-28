@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "SRE | Site Reliability Engineering"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "A collection of resources to help you master your SRE skills"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to this page, please see the Github link to help contribute to this community resource.
