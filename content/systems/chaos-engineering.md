@@ -4,4 +4,8 @@ omit_header_text: false
 description: Chaos Engineering
 type: page
 ---
-# This is a some text
+
+## Books
+
+* [Chaos Engineering: System Resiliency in Practice](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869/)
+
